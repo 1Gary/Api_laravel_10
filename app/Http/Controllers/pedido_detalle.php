@@ -98,8 +98,17 @@ class pedido_detalle extends Controller
 
           return response()->json([$arr],200);
       }
-}
 
+
+      public function prueba(){
+
+        //
+      
+      }
+    
+  }
+
+ 
 /*
 
 public function  updateaddpedidoxdetalle(Request $request, $id)
