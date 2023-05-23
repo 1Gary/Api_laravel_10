@@ -105,6 +105,12 @@ class pedido_detalle extends Controller
         //
       
       }
+
+      public function prueba2(){
+
+        //
+      
+      }
     
   }
 
